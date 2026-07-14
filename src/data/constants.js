@@ -362,6 +362,21 @@ export const projects = [
       "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
     tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
     category: "android app",
+    
+  },
+  {
+    id: 6,
+    title: "PortFolio",
+    date: "2026",
+    description:
+      "A portfolio using react js for Professional use. Its an aquired all details about me is true.",
+    image:
+      "",
+    tags: ["React js", "Vercel"],
+    category: "Web app",
+    github: "https://github.com/Manishprajapat3636/Portfolio",
+    webapp: "https://portfolio-6mmt.vercel.app/",
+
   },
 ];
 
