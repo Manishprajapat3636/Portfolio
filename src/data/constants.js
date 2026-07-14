@@ -225,7 +225,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://scontent.fudr3-3.fna.fbcdn.net/v/t39.30808-6/378582236_329675193057775_1796983653842294470_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x1536&ctp=s1536x1536&_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=wdN5Y_UhUUsQ7kNvwHOm0Bg&_nc_oc=AdqF43Guj9THJnIyRurLZ6jhPIz_wHuF7NfhfydRjHxyUTC0PihuW5QdEjocvhwoOMHXOHRN_ilMz0dEXzlwdFhC&_nc_zt=23&_nc_ht=scontent.fudr3-3.fna&_nc_gid=rr_Y6dwiL9dEIcGvklECTQ&_nc_ss=7b289&oh=00_AQCfI1jc0snpQrvvfmwZTTL4MuS6qxI--Mh4MCPThZvGWA&oe=6A551954",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIS8aTziubheeMo4jITiEwZnq9Oo3fKuytfAEXELNxOvL6-fC90qlnvIGB&s=10",
     school: "Nims University,Jaipur, Rajasthan",
     date: "Aug 2022 - June 2026",
     grade: "7.41 CGPA",
