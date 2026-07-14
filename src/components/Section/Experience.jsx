@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import { experiences } from '../../data/constants';
 import {
   VerticalTimeline,
-  VerticalTimelineElement,
+  
 } from "react-vertical-timeline-component";
 import ExperienceCard from '../cards/ExperienceCard';
 

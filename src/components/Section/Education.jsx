@@ -3,9 +3,8 @@ import styled from 'styled-components';
 import { education } from '../../data/constants';
 import {
   VerticalTimeline,
-  VerticalTimelineElement,
+  
 } from "react-vertical-timeline-component";
-import ExperienceCard from '../cards/ExperienceCard';
 import EducationCard from '../cards/EducationCard';
 import EarthCanvas from "../canvas/Earth";
 
