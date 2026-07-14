@@ -371,7 +371,7 @@ export const projects = [
     description:
       "A portfolio using react js for Professional use. Its an aquired all details about me is true.",
     image:
-      "",
+      "https://github.com/Manishprajapat3636/Portfolio/raw/main/ScreenShots/About.png",
     tags: ["React js", "Vercel"],
     category: "Web app",
     github: "https://github.com/Manishprajapat3636/Portfolio",
