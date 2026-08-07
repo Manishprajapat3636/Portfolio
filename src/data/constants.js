@@ -220,6 +220,14 @@ export const experiences = [
     date: "May 2023 - Present",
     desc: "Contributed to different open-source projects and learn from industry experts",
   },
+  {
+    id: 0,
+    img: "https://content.jdmagicbox.com/comp/jaipur/b9/0141px141.x141.230305195339.x8b9/catalogue/rangrasiya-marketing-advertising-and-painting-works-jaipur-paintings-lpr16ysm9o.jpg",
+    role: "Computer Operator ",
+    company: "Rangrasiya Marketing Advertising & Painting Works",
+    date: "May 2021 - july 2026",
+    desc: "Experienced Computer Operator with 4 years of expertise in invoice and quotation preparation, document formatting, work list management, data entry, and office administration. Proficient in Microsoft Office and maintaining accurate business records.",
+  },
 ];
 
 export const education = [
