@@ -343,6 +343,20 @@ export const projects = [
     webapp: "https://portfolio-6mmt.vercel.app/",
 
   },
+  {
+    id: 7,
+    title: "Business Management",
+    date: "15-10-2026",
+    description:
+      "A business management and accounting web application built using C#, ASP.NET Core MVC, Entity Framework Core, and SQL Server. It helps businesses manage customers, items, invoices, quotations, work lists, and expense records, with PDF invoice generation and Excel exports. Designed to simplify daily business operations and organize business data in one place.",
+    image:
+      "https://github.com/Manishprajapat3636/RangrasiyaBusiness/blob/main/ScreenShots/Dashboard.png?raw=true",
+    tags: ["C#", "ASP.NET Core MVC", "SQL Server", "Entity Framework Core", "Bootstrap"],
+    category: "Web app",
+    github: "https://github.com/Manishprajapat3636/RangrasiyaBusiness",
+    webapp: "https://rangrasiya.runasp.net/Dashboard",
+
+  },
 ];
 
 export const TimeLineData = [
